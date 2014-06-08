@@ -11,13 +11,22 @@ module.exports = function(grunt) {
     },
     connect:{
         options: {
-            hostname:'localhost',
-            livereload:true,
-            base: 'dist',
-            keepalive:true,
-            debug:true,
-            open:'http://localhost:8000'
-        }
+	        port: 9008,
+	        livereload: 35729,
+	        hostname: 'localhost',
+	        keepopen:true
+
+	    },
+	    livereload: {
+	        options: {
+	            open: {
+	                 target: 'http://localhost:9008/index.html'
+	            },
+	            base: [
+	                'dist'
+	            ]
+	        }
+	    }
     },
     watch:{
         options: { livereload: true },
