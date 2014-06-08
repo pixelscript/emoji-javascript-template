@@ -19,4 +19,4 @@ From here you should just be able to launch your site with:
 
     grunt
 
- ##### Emoji to name map taken from the [Wordpress Open Source Emoji Plugin](http://wordpress.org/plugins/open-source-emoji/) by [Tim Whitlock](http://timwhitlock.info/)
+##### Emoji to name map taken from the [Wordpress Open Source Emoji Plugin](http://wordpress.org/plugins/open-source-emoji/) by [Tim Whitlock](http://timwhitlock.info/)
