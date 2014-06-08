@@ -3,7 +3,7 @@
 ![Emoji in action](http://i.imgur.com/6n0NgK0.png)
 
 
-This is a very simple (and slightly hacky) grunt based automation template to allow you to use Emoji in your javascript and for it to still produce valid code. Great for kids or those that are young at heart (like me).
+This is a very simple grunt based automation template to allow you to use Emoji in your javascript and for it to still produce valid code. Great for kids or those that are young at heart (like me).
 
 ## How it works
 
