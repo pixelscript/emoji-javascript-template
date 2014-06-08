@@ -7,7 +7,7 @@ This is a very simple grunt based automation template to allow you to use Emoji 
 
 ## How it works
 
-It very escapes any and all Emoji characters in .js files in your src directory with sensible strings (e.g. ❄ will become ːsnowflakeː).
+It escapes all Emoji characters in .js files in your src directory with sensible strings (e.g. ❄ will become ːsnowflakeː).
 
 ## Instructions
 
